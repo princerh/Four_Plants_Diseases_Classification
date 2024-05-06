@@ -2,7 +2,8 @@
 
 
 #### Features: 
-- This model is lightweight having only 400k parameters. 
+- The proposed CNN-SVM model is a lightweight model having only 400k parameters.
+- The model has been trained on a larget dataset of 11,524 images. 
 - This model is a combined technology of Machine learning and Deep learning (CNN-SVM).
 - This model can have superior accuracy to some transfer learning models - VGG16, VGG19, ShuffleNet, MobileNet, MobileNet-V2, Inception-V3, Xception, DenseNet. 
 - The proposed research provides accuracy graph, loss graph, ROC curve, classification reports, PR curve. 
