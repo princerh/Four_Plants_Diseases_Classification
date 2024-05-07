@@ -11,3 +11,6 @@
 - The classification of the four plants diseases has been explained by explainable-AI (Grad CAM). 
 - The proposed research has outperformed other researchs by having a combination of CNN-SVM with a decent accuracy and explainable AI.
 
+#### Dataset: 
+
+[Four Plant Leaf Dataset](https://www.kaggle.com/datasets/mamun009/four-plants-leaf-disease)
