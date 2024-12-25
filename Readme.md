@@ -1,5 +1,6 @@
 #  CSXAI: A Lightweight 2D CNN-SVM Model for Detection and Classification of Various Crop Diseases with Explainable AI Visualization.
 
+## Published Paper: [CSXAI](https://www.researchgate.net/publication/382132792_CSXAI_a_lightweight_2D_CNN-SVM_model_for_detection_and_classification_of_various_crop_diseases_with_explainable_AI_visualization) 
 
 #### Features: 
 - The proposed CNN-SVM model is a lightweight model having only 400k parameters.
